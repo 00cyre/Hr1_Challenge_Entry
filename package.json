@@ -1,0 +1,19 @@
+{
+  "name": "hr1_challenge_entry",
+  "version": "1.0.0",
+  "description": "trainee entry for the company duogourmet",
+  "main": "index.html",
+  "scripts": {
+    "test": "master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsvunu/Hr1_Challenge_Entry.git"
+  },
+  "author": "hr1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsvunu/Hr1_Challenge_Entry/issues"
+  },
+  "homepage": "https://github.com/adsvunu/Hr1_Challenge_Entry#readme"
+}
