@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var GoogleKey = "AIzaSyDafnXQrY4CQUC8VYw6x4apIKY5vCXZY3Y";
+    var GoogleKey = "ENTER YOUR MAPS API KEY HERE";
     var pos = null;
     GetCLoc();
     
