@@ -1,0 +1,37 @@
+.f-right{
+    float: right;
+    position: absolute;
+    right: 20px;
+}
+.Main-Text {
+    padding: 4rem 2rem;
+    height: 350px;
+}
+.checked {
+    color:lime;
+}
+h2{
+     color: white; 
+}
+h5{
+    color: white; 
+}
+.ParentDiv{
+    position:relative;
+    height:350px ;
+    width:350px;
+}
+.restaurants_back{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:-1;
+    border-radius: 8px;
+    height: 80%;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    filter: blur(1px); 
+}
